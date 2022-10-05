@@ -5,6 +5,9 @@
  * @counter: line_number
  * Return: no return
 */
+#include<stdio.h>
+#include<stdlib.h>
+
 void f_push(stack_t **head, unsigned int counter)
 {
 	int n, j = 0, flag = 0;
