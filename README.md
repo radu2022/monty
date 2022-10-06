@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Monty language
 Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
 
@@ -176,3 +177,7 @@ We used malloc and free and are not allowed to use any other function from man m
 #### SEID HAMID
 
 #### EDEN DAMESSA 
+=======
+ALX group Project (Eden DAMESSA, Seid Hamid Muhammed)
+C - Stacks, Queues - LIFO, FIFO
+>>>>>>> e695bf89d5674f8ca41740d630dbc5b88491c1e0
