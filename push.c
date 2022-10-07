@@ -18,7 +18,7 @@ core_stack_queue(stack, line_number, 0);
  */
 void stack(stack_t **stack, unsigned int line_number)
 {
-core_stack_queue(stack, line_number, 1);
+  core_stack_queue(stack, line_number, 1);
 }
 
 
@@ -29,5 +29,6 @@ core_stack_queue(stack, line_number, 1);
  */
 void queue(stack_t **stack, unsigned int line_number)
 {
-core_stack_queue(stack, line_number, 2);
+
+ core_stack_queue(stack, line_number, 2);
 }
